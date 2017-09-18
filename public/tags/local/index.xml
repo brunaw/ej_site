@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local on DataEst</title>
+    <link>/tags/local/</link>
+    <description>Recent content in Local on DataEst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>dataestconsultoria@gmail.com (DataEst)</managingEditor>
+    <webMaster>dataestconsultoria@gmail.com (DataEst)</webMaster>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/local/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Localização</title>
+      <link>/2017/08/localiza%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <author>dataestconsultoria@gmail.com (DataEst)</author>
+      <guid>/2017/08/localiza%C3%A7%C3%A3o/</guid>
+      <description>Localização da DataEst
+ </description>
+    </item>
+    
+  </channel>
+</rss>

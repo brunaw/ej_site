@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre on DataEst</title>
+    <link>/categories/sobre/</link>
+    <description>Recent content in Sobre on DataEst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>dataestconsultoria@gmail.com (DataEst)</managingEditor>
+    <webMaster>dataestconsultoria@gmail.com (DataEst)</webMaster>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sobre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Localização</title>
+      <link>/2017/08/localiza%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <author>dataestconsultoria@gmail.com (DataEst)</author>
+      <guid>/2017/08/localiza%C3%A7%C3%A3o/</guid>
+      <description>Localização da DataEst
+ </description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/2017/08/sobre/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <author>dataestconsultoria@gmail.com (DataEst)</author>
+      <guid>/2017/08/sobre/</guid>
+      <description>Sobre a DataEst
+ Somo a empresa júnior de estatística da Universidade Federal do Paraná -UFPR.
+Regidos pela difusão do conhecimento e fomento à atividade empreendedora, prestamos serviço de consultoria estatística para os mais diversos setores (e.g.: pesquisas acadêmicas, pesquisa de mercado, controle de processos, banco de dados, inferência estatística, treinamentos, entre outros)!
+Entre em contato conosco.
+Email: dataestconsultoria@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

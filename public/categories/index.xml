@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DataEst</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on DataEst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>dataestconsultoria@gmail.com (DataEst)</managingEditor>
+    <webMaster>dataestconsultoria@gmail.com (DataEst)</webMaster>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Servicos</title>
+      <link>/categories/servicos/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <author>dataestconsultoria@gmail.com (DataEst)</author>
+      <guid>/categories/servicos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/categories/sobre/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <author>dataestconsultoria@gmail.com (DataEst)</author>
+      <guid>/categories/sobre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
