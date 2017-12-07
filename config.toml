@@ -37,7 +37,7 @@ canonifyurls = true
   location = "Curitiba, Paraná, Brasil"
   email = "dataestconsultoria@gmail.com"
   # Your profile picture
-  picture = logo.png
+  picture = 'logo.png'
 
 
 # Menu Configuration
