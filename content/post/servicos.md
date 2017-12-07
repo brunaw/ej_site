@@ -7,6 +7,7 @@ tags:
 - analises
 thumbnailImagePosition: left
 thumbnailImage: https://image.flaticon.com/icons/svg/230/230309.svg
+coverImage: https://insiderfinancial.com/wp-content/uploads/2016/08/reliability-rajant-mesh-wireless-network.jpg
 ---
 
 Alguns dos serviços oferecidos pela **DataEst são**:
@@ -40,4 +41,9 @@ Alguns dos serviços oferecidos pela **DataEst são**:
   temporais, análise de dados categóricos, análise não paramétrica, 
   entre outras extensões. 
   
-  
+## Aprendizado de Máquina
+
+  - Utilizamos técnicas de aprendizado de máquina, consolidadas
+na literatura, para o desenvolvimento de modelos preditivos. 
+Usando algoritmos que aprendem interativamente a partir de dados, o aprendizado de máquinas permite que os computadores encontrem insights ocultos sem serem explicitamente programados para procurar 
+algo específico.

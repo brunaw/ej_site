@@ -2,7 +2,6 @@
 title: "Sobre"
 thumbnailImagePosition: left
 thumbnailImage: https://image.flaticon.com/icons/svg/265/265667.svg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
 date: 2017-08-15
